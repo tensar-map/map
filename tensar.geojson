@@ -1,0 +1,392 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-01-0017",
+        "func": "3-MiArt",
+        "adt": 3900,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.43820047378539,
+            30.54413360443756
+          ],
+          [
+            -91.43684327602386,
+            30.54920165652468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-01-0017",
+        "func": "3-MiArt",
+        "adt": 3700,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.43686473369598,
+            30.549210896122798
+          ],
+          [
+            -91.4280080795288,
+            30.580846740887587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-01-0017",
+        "func": "3-MiArt",
+        "adt": 3700,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.4280617237091,
+            30.580846740887587
+          ],
+          [
+            -91.42500400543213,
+            30.591809947656582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-01-0017",
+        "func": "3-MiArt",
+        "adt": 3700,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.42495036125183,
+            30.5918145654268
+          ],
+          [
+            -91.42423152923584,
+            30.595033097752193
+          ],
+          [
+            -91.42738580703734,
+            30.60412014138233
+          ],
+          [
+            -91.43408060073853,
+            30.607776881823785
+          ],
+          [
+            -91.44354343414307,
+            30.611987502826253
+          ],
+          [
+            -91.44729852676392,
+            30.612633853876552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-01-0017",
+        "func": "3-MiArt",
+        "adt": 3700,
+        "lanes": 2,
+        "acpt": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.44729852676392,
+            30.61265232098604
+          ],
+          [
+            -91.45849943161011,
+            30.615025315249405
+          ],
+          [
+            -91.46108508110045,
+            30.614914515255172
+          ],
+          [
+            -91.46702885627747,
+            30.616853496848293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "acpt": "2004-12-13",
+        "cost": 3162312,
+        "prj": "052-01-0017",
+        "prj_id": "052-01-0017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.43827557563782,
+          30.544036583539867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "cost": 4626647,
+        "acpt": "2002-10-23",
+        "prj": "052-03-0026",
+        "prj_id": "052-03-0026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.47285461425781,
+          30.704058230919504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-03-0026",
+        "func": "3-MiArt",
+        "adt": 7200,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.47512912750244,
+            30.70424272726439
+          ],
+          [
+            -91.57551348209381,
+            30.719158089284328
+          ],
+          [
+            -91.57735884189606,
+            30.719656150626527
+          ],
+          [
+            -91.58141434192657,
+            30.721620700832798
+          ],
+          [
+            -91.58346891403198,
+            30.72318862297836
+          ],
+          [
+            -91.58543765544891,
+            30.725757193270745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-03-0026",
+        "func": "3-MiArt",
+        "adt": 7200,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.58537864685059,
+            30.725771027395815
+          ],
+          [
+            -91.60488367080688,
+            30.7541729094988
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-03-0026",
+        "func": "3-MiArt",
+        "adt": 11200,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.60496950149536,
+            30.754108369260496
+          ],
+          [
+            -91.63057923316956,
+            30.793179564580356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-03-0026",
+        "func": "3-MiArt",
+        "adt": 12100,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.63054704666138,
+            30.79319338902008
+          ],
+          [
+            -91.6339910030365,
+            30.798372805866038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-03-0026",
+        "func": "3-MiArt",
+        "adt": 12100,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.63396954536438,
+            30.798382021661542
+          ],
+          [
+            -91.63859367370605,
+            30.80610454764954
+          ],
+          [
+            -91.64086818695068,
+            30.810306520643195
+          ],
+          [
+            -91.64168357849121,
+            30.811301697857306
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-03-0026",
+        "func": "3-MiArt",
+        "adt": 12100,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.64161920547485,
+            30.811347770626796
+          ],
+          [
+            -91.64411902427673,
+            30.815107234154098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5,
+        "prj": "052-03-0026",
+        "func": "3-MiArt",
+        "adt": 10300,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.64419412612915,
+            30.81500587799867
+          ],
+          [
+            -91.65324926376343,
+            30.82913942201398
+          ]
+        ]
+      }
+    }
+  ]
+}
